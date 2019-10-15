@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="C:\ProgramData\Anaconda3\python.exe">
+        <option name="mySdkHome" value="C:\ProgramData\Anaconda3\python.exe" />
+      </console-settings>
+    </option>
+  </component>
+</project>
